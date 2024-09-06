@@ -1,2 +1,2 @@
 # terraform-aws-pipeline-codebuild
-Terraform Workspace
+Terraform Module
